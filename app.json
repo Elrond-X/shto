@@ -1,5 +1,5 @@
 {
-  "name": "shadowsocks-heroku",
+  "name": "shto",
   "description": "shadowsocks-heroku",
   "env": {
     "METHOD": {
